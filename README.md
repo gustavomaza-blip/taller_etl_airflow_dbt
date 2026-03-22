@@ -21,3 +21,7 @@ Loja, Quito, Guayaquil, Cuenca, Manta, Ambato, Riobamba, Ibarra, Machala, Santo 
 - Condición climática (Soleado, Nublado, Lluvia, etc.)
 
 ## Estructura del Proyecto
+## Mejoras realizadas
+- 10 ciudades de Ecuador
+- Humedad, presi�n y velocidad del viento
+- Macros Jinja reutilizables
