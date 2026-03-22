@@ -1,0 +1,39 @@
+# Python - archivos compilados y caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variables de entorno (contraseñas, claves API)
+.env
+.env.local
+.env.*.local
+
+# dbt - archivos generados durante la ejecución
+target/
+dbt_packages/
+logs/
+*.log
+
+# Airflow - logs y base de datos local
+logs/
+*.db
+*.sqlite
+airflow.cfg
+webserver_config.py
+
+# IDE - configuraciones de Visual Studio Code
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
